@@ -1,4 +1,4 @@
-package arrays.quizapp;
+
 public class Question {
     private String text;
     private String[] options;
