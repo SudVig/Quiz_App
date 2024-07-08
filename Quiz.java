@@ -1,4 +1,4 @@
-package arrays.quizapp;
+
 import java.util.*;
 
 // Quiz.java
